@@ -1,0 +1,7 @@
+maxiter=5
+outeriter=10
+rank='default'
+eps=1e-3
+estop=True
+etol=1e-4
+rounding_option='default'
